@@ -1,0 +1,9 @@
+git init - To inilialize the git
+git add filename - To staged the the untracked file
+git commit -m "message" - To tracked the file with comments
+git rm --cached filename - To unstaged the file
+git restore --staged filename - To untracked or staged the file
+git remote add origin <repository url> - Add the remote repository
+git push -u origin branch_name - push from local to remote
+git remote add origin https://PTA_Token@github.com/UserName/RepoName  - Set the personal access token
+git remote -v - check the remote connection
