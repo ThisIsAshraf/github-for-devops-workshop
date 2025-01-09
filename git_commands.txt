@@ -10,3 +10,4 @@ git remote -v - check the remote connection
 
 git branch - check the current branch (will have * marked before the name)
 git branch branch_name - Crate new branch
+git switch branch_name - switch the branch
