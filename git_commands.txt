@@ -7,3 +7,6 @@ git remote add origin <repository url> - Add the remote repository
 git push -u origin branch_name - push from local to remote
 git remote add origin https://PTA_Token@github.com/UserName/RepoName  - Set the personal access token
 git remote -v - check the remote connection
+
+git branch - check the current branch (will have * marked before the name)
+git branch branch_name - Crate new branch
